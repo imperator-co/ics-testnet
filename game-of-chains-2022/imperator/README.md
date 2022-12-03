@@ -9,8 +9,8 @@ Contents
 
 * Timeline
    * 2022-12-06: Spawn time: 2022-12-06T14:00:00.000000Z
-   * 2022-12-05: Proposal 28 voting period ends
-   * 2022-12-02: Proposal 28 goes into the voting period
+   * 2022-12-05: Proposal 58 voting period ends
+   * 2022-12-02: Proposal 58 goes into the voting period
    * 2022-12-02: Genesis file without CCV state is generated
 
 `imperator` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](https://github.com/hyphacoop/ics-testnets/blob/main/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
