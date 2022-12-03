@@ -13,7 +13,7 @@ Contents
    * 2022-12-02: Proposal 28 goes into the voting period
    * 2022-12-02: Genesis file without CCV state is generated
 
-`imperator` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process]([/docs/Consumer-Chain-Start-Process.md](https://github.com/hyphacoop/ics-testnets/blob/main/docs/Consumer-Chain-Start-Process.md)) page for more details about the workflow.
+`imperator` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](https://github.com/hyphacoop/ics-testnets/blob/main/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
 
 The following items will be included in the proposal:
 * Genesis file hash
