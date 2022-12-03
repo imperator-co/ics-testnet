@@ -1,0 +1,12 @@
+{
+    "title": "Create the Imperator chain",
+    "description": "This is the proposal to create the consumer chain \"imperator\". Visit https://github.com/imperator-co/ics-testnet/tree/main/game-of-chains-2022/imperator for details on this proposal's data and how to join the chain.",
+    "chain_id": "imperator-1",
+    "initial_height": {
+        "revision_height": 1
+    },
+    "genesis_hash": "0d18b74660977ad7b7d36001ad89db8883e8e68643dfeac316bf359ee2ebdb48",
+    "binary_hash": "c7224c1748e2fed23f803945112dc4eca6ea5c22f4d38fac0ac65e87ea110865",
+    "spawn_time": "2022-12-06T14:00:00.000000Z",
+    "deposit": "1uprov"
+}
