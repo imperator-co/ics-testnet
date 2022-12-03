@@ -32,9 +32,9 @@ The binary published in this repo is the `imperatord` binary built using the `im
 ### Verify Binary Checksum.
 Binary checksums can differ based on many things to include go, libc, and make versions.
 
-  * [Linux amd64 build](imperatord)
+  * [Linux amd64 build](https://github.com/imperator-co/imperator-core/releases/download/v0.1.0/imperatord)
   * Version: `v0.1.0`
-  * SHA256: `f2f6bf66a39b2c48c144370bd1a2922b946de1d562258b701104a20a8f682f6b`
+  * SHA256: `c7224c1748e2fed23f803945112dc4eca6ea5c22f4d38fac0ac65e87ea110865`
 
 ### Genesis file
 
