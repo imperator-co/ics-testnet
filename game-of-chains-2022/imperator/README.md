@@ -8,10 +8,13 @@ Contents
 ## Status
 
 * Timeline
-   * 2022-12-06: Spawn time: 2022-12-06T14:00:00.000000Z
-   * 2022-12-05: Proposal 58 voting period ends
-   * 2022-12-02: Proposal 58 goes into the voting period
-   * 2022-12-02: Genesis file without CCV state is generated
+   * 2022-12-09: Stop time: 2022-12-09T20:00:00.000000Z
+   * 2022-12-09: Spawn time: 2022-12-09T15:00:00.000000Z
+   * 2022-12-09: Proposal 72 voting period ends
+   * 2022-12-06: Proposal 72 goes into the voting period
+   * 2022-12-09: Proposal 71 voting period ends
+   * 2022-12-06: Proposal 71 goes into the voting period
+   * 2022-12-06: Genesis file without CCV state is generated
 
 `imperator` will launch as a consumer chain through a governance proposal in the `provider` chain. Read the [Consumer Chain Start Process](https://github.com/hyphacoop/ics-testnets/blob/main/docs/Consumer-Chain-Start-Process.md) page for more details about the workflow.
 
@@ -34,7 +37,7 @@ Binary checksums can differ based on many things to include go, libc, and make v
 
   * [Linux amd64 build](https://github.com/imperator-co/imperator-core/releases/download/v0.1.0/imperatord)
   * Version: `v0.1.0`
-  * SHA256: `c7224c1748e2fed23f803945112dc4eca6ea5c22f4d38fac0ac65e87ea110865`
+  * SHA256: `7458017e54ae29ba084bdbac0fc874bd9baee2559f8796d3930f059c13b29323`
 
 ### Genesis file
 
